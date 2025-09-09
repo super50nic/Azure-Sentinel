@@ -78,7 +78,7 @@
         },
         {
             "type": "Microsoft.Web/sites",
-            "apiVersion": "2023-04-01",
+            "apiVersion": "2024-11-01",
             "name": "[variables('functionAppName')]",
             "location": "[resourceGroup().location]",
             "kind": "functionapp",
