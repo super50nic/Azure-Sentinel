@@ -50,7 +50,7 @@
         },
         {
             "type": "Microsoft.Web/serverfarms",
-            "apiVersion": "2023-04-01",
+            "apiVersion": "2024-11-01",
             "name": "[variables('hostingPlanName')]",
             "location": "[resourceGroup().location]",
             "sku": {
